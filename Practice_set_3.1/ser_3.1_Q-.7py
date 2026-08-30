@@ -1,0 +1,6 @@
+l1 = ["mango","banana","papaya","kiwi","watermelon"]
+l2 = ["faiz","asad","aman","ayan"]
+l1.extend(l2)
+print(l1)
+l1.remove("ayan")
+print(l1)
